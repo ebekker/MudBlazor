@@ -162,6 +162,8 @@ namespace MudBlazor
     Add-Content -Encoding utf8BOM $csFile $csFileEpilogue.Invoke() -NoNewline
     $totalTime = [datetime]::Now - $startTime
     Write-Host "  ...generated [$global:iconCount] icons for [$famName] in [$($totalTime.TotalSeconds)] seconds."
+
+    $familyCount++
 }
 
 $allTotalTime = [datetime]::Now - $allStartTime
