@@ -1,0 +1,53 @@
+{
+  "Rounded": [
+    "FaceUnlock",
+    "AmpStories",
+    "LockOutline",
+    "LabelImportantOutline",
+    "Eco",
+    "InfoOutline",
+    "LabelOutline",
+    "LightbulbOutline",
+    "Outbond"
+  ],
+  "Outlined": [
+    "FaceUnlock",
+    "AmpStories",
+    "Eco",
+    "Outbond"
+  ],
+  "Sharp": [
+    "FaceUnlock",
+    "AmpStories",
+    "LockOutline",
+    "LabelImportantOutline",
+    "Eco",
+    "InfoOutline",
+    "LabelOutline",
+    "LightbulbOutline",
+    "Outbond"
+  ],
+  "Filled": [
+    "WorkspacesOutline",
+    "InfoOutline",
+    "LabelOutline",
+    "AmpStories",
+    "NoMealsOuline",
+    "BlockFlipped",
+    "WorkspacesFilled",
+    "Outbond",
+    "Eco",
+    "PieChartOutlined",
+    "FilterListAlt",
+    "AssistantNavigation",
+    "DriveFileMoveOutline",
+    "HomeFilled",
+    "OutgoingMail",
+    "WbTwighlight",
+    "AddCall",
+    "LocationPin",
+    "LockOutline",
+    "LabelImportantOutline",
+    "LightbulbOutline"
+  ]
+}
