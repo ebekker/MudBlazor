@@ -1,8 +1,8 @@
 
-[CmdletBinding()]
-param (
-    $Out=$PWD #"$PWD/../src/MudBlazor/Icons/Material"
-)
+#[CmdletBinding()]
+#param (
+#    $Out=$PWD #"$PWD/../src/MudBlazor/Icons/Material"
+#)
 
 ## Based on:
 ##    * https://github.com/google/material-design-icons/issues/241#issuecomment-783804620
